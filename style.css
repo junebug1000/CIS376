@@ -1,0 +1,18 @@
+/* my css file */
+
+.white {
+	color: white;
+}
+#notification {
+
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: purple;
+
+}
+
+#close-btn{
+	float: right;
+}
